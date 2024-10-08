@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pterab.github.io/vix/sitemap.vix.gz
